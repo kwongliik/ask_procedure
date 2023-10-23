@@ -3,16 +3,16 @@
 pi = 3.142
 
 def kira_kon(jejari,tinggi): 
-    isipadu_kon=(1/3) * pi * (jejari**2) * (tinggi)
-    return isipadu_kon
+    isipadu_kon = (1/3) * pi * (.........) * (.........)
+    return ...........
 
 def kon(isipadu):
-    print(f"Isipadu kon = {isipadu:.2f}")
+    print(f"Isipadu kon = {............}")
 
 # Atur cara utama
 r = float(input("Masukkan jejari:"))
 h = float(input("Masukkan tinggi:"))
-v = kira_kon(r, h)
-kon(v)
+v = kira_kon(........)
+kon(........)
 
 
